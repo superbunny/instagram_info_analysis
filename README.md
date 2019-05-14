@@ -1,4 +1,4 @@
-# instagram image information
+# Instagram image mood and stock market (in progress)
 Project purpost: to test if companies' official instagram accounts' image mood can predict the stock market.
 
 ## Step 1: downloading a list of public firms' official instagram accounts' information
